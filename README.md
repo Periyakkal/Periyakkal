@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there+%2CI'm+Periyakkal;I+learn+technical+stuffs.;Hi+there%2C+You+can+call+me+Peri.;Hi+there%2C+I'm+3rd+year+CSE+student;Hi+there%2C+I+listen+music+stuffs.)](https://github.com/Periyakkal/Periyakkal)
-## 💫 About Me
-### Hi there 👋
+
 
 <!--
 **Periyakkal/Periyakkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+## 💫 About Me
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
